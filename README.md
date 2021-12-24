@@ -5,7 +5,7 @@ A PLS-R model was developed using empirical data on sugarcane samples, and demon
 All spectral data was collected on a LinkSquare NIR handheld spectrophotometer using the LinkSquare Collector LS application.
 Included are empirical datasets as well as Python scripts to analyze and visualize data.
 
-A good introduction to PLS (Partial Least Squares) is provided here: pls-manual.pdf
+A good introduction to PLS (Partial Least Squares) is provided in "pls-manual.pdf"
 
 Author: Shreyas Renganathan
 
