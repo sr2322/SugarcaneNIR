@@ -3,6 +3,9 @@ Each dataset is organized into two CSV files: one with absorbance data for numbe
 
 --DATASETS SUMMARY--
 TableSugarTop1: LinkSquare internal halogen light source, LinkSquare pointing down on top of clear open container
+
 TableSugar1: LinkSquare internal halogen light source, LinkSquare pointing at side of clear open container
+
 TableSugarLit1: external halogen light source, all collinear LinkSq--container--lightsource
+
 control_solution: external halogen light source, all collinear LinkSq--container--lightsource, and using raw cane sugar (turbinado)
