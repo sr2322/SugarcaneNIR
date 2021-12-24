@@ -1,4 +1,4 @@
-All tests conducted on solutions of table sugar in a plastic container, within an enclosed light-blocking box.
+All tests conducted on sugar solutions in a plastic container, within an enclosed light-blocking box.
 Each dataset is organized into two CSV files: one with absorbance data for numbered samples measured using a LinkSquare NIR, and the other (called "...Refs") with known sugar concentrations for each sample as measured using a Brix meter.
 
 --DATASETS SUMMARY--
